@@ -10,6 +10,9 @@ Além disso, gosto muito de aprender como criar animações e designs atrativos 
 
 Atualmente estou trabalhando como desenvolvedora frontend na squad de recorrências de pedidos na [Petlove](https://petlove.com.br/).
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolineignr&count_private=true&show_icons=true&hide=stars&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolineignr&layout=compact&langs_count=6&hide=java&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- ---
 
 Fora do mundo da programação, eu gosto muito de desenhar e entender as melhores técnicas pra mim. Gosto de todo tipo de representações visuais e acho que isso é muito importante inclusive para o meu desenvolvimento como programadora, porque me ajuda a desbloquear processos e ideias criativas.
