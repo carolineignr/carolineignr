@@ -10,11 +10,11 @@ Além disso, gosto muito de aprender como criar animações e designs atrativos 
 
 Atualmente estou trabalhando como desenvolvedora frontend na squad de recorrências de pedidos na [Petlove](https://petlove.com.br/).
 
----
+<!-- ---
 
 Fora do mundo da programação, eu gosto muito de desenhar e entender as melhores técnicas pra mim. Gosto de todo tipo de representações visuais e acho que isso é muito importante inclusive para o meu desenvolvimento como programadora, porque me ajuda a desbloquear processos e ideias criativas.
 
-Pra relaxar, gosto de andar de bike e me desafiar por aí acampando, e/ou experimentando novas experiências em lugares calmos e sem muita gente (geralmente na natureza). 🌱
+Pra relaxar, gosto de andar de bike e me desafiar por aí acampando, e/ou experimentando novas experiências em lugares calmos e sem muita gente (geralmente na natureza). 🌱 -->
 
 ---
 
