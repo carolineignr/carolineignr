@@ -1,4 +1,4 @@
-### Hey fellas! 👋 
+### Hey! 👋 
 
 #### My name is Ana Caroline, I'm 24 years old, and I'm currently working on my skills as a frontend developer.
 
