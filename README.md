@@ -11,7 +11,7 @@ Besides that, I like a lot to learn how to create animations and attractive/usef
 I'm currently working as frontend developer on order recurrences squad at [Petlove](https://petlove.com.br/).
 
 If you want to know me a little more, you can find me [clicking here](https://www.linkedin.com/in/carolineignacior/) [![LinkedIn][1.2]][1].
-
+<!-- ---
 ---
 
 ### Opa, bem vinda(o) 👋 
@@ -28,7 +28,7 @@ Atualmente estou trabalhando como desenvolvedora frontend na squad de recorrênc
 
 Se quiser me conhecer um pouco mais, você pode me encontrar [clicando aqui](https://www.linkedin.com/in/carolineignacior/) [![LinkedIn][1.2]][1].
 
-<!-- ---
+
 
 Fora do mundo da programação, eu gosto muito de desenhar e entender as melhores técnicas pra mim. Gosto de todo tipo de representações visuais e acho que isso é muito importante inclusive para o meu desenvolvimento como programadora, porque me ajuda a desbloquear processos e ideias criativas.
 
