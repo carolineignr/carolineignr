@@ -2,7 +2,7 @@
 
 #### My name is Ana Caroline, I'm 24 years old, and I'm currently working on my skills as a frontend developer.
 
-Although I'm focusing on frontend, I like to work with Javascript and all it's ecosystem. Some of the technologies I already worked envolving this context were: **Javascript**, **React.js**, **React Native**, **Vue.js**, **Jest**, and others.
+Although I'm focusing on frontend, I like to work with Javascript and all it's ecosystem. Some of the technologies I already worked envolving this context were: **Javascript**, **React.js**, **React Native**, **Vue.js**, **Nuxt**, **Jest**, and others.
 
 I also worked and liked very much Ruby on Rails framework, because of it's flexibility and ease of use, both frontend and backend.
 
