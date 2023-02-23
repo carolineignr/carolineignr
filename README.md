@@ -1,14 +1,10 @@
-### Hey! 👋 
+### Hey, welcome! 👋 
 
-#### My name is Ana Caroline, I'm 24 years old, and I'm currently working on my skills as a frontend developer.
+#### My name is Ana Caroline, I'm 25 years old, and I'm currently working on my skills as a frontend developer.
 
-Although I'm focusing on frontend, I like to work with Javascript and all it's ecosystem. Some of the technologies I already worked envolving this context were: **Javascript**, **React.js**, **React Native**, **Vue.js**, **Nuxt**, **Jest**, **Typescritp**, and others.
+I'm focusing on frontend, but I also like to work/learn about all Javascript ecosystem. Some of the technologies I have already worked are: **Javascript**, **React.js**, **React Native**, **Vue.js**, **Nuxt**, **Jest**, **Typescritp**... I also have worked with and like a lot about the Rails framework.
 
-I also worked and liked very much Ruby on Rails framework, because of it's flexibility and ease of use, both frontend and backend.
-
-Besides that, I like a lot to learn how to create animations and attractive/useful designs with **CSS/SCSS** and **HTML**.
-
-I'm currently working as frontend developer on order recurrences squad at [Petlove](https://petlove.com.br/).
+Besides that, I like to learn how to creative use **CSS/SCSS** and **HTML**, rewriting some animations and copying some pictures like this Gameboy.
 
 If you want to know me a little more, you can find me [clicking here](https://www.linkedin.com/in/carolineignacior/) [![LinkedIn][1.2]][1].
 <!-- ---
