@@ -4,7 +4,7 @@
 
 I'm focusing on frontend, but I also like to work/learn about all Javascript ecosystem. Some of the technologies I have already worked are: **Javascript**, **React.js**, **React Native**, **Vue.js**, **Nuxt**, **Jest**, **Typescript**... I also have worked with and like a lot about the Rails framework.
 
-Besides that, I like to learn how to creative use **CSS/SCSS** and **HTML**, rewriting some animations and copying some pictures like this Gameboy.
+Besides that, I like to learn how to creative use **CSS/SCSS** and **HTML**, rewriting some animations and copying some pictures [like this Gameboy](https://github.com/carolineignr/gameboy-clone).
 
 If you want to know me a little more, you can find me [clicking here](https://www.linkedin.com/in/carolineignacior/) [![LinkedIn][1.2]][1].
 <!-- ---
