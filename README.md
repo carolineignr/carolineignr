@@ -1,6 +1,6 @@
 ### Hey, welcome! 👋 
 
-My name is **Ana Caroline**, I'm 26 years old, and actually I'm based on Brazil, Florianópolis.
+My name is **Ana Caroline**, I'm 26 years old, and actually I'm based in Brazil, Florianópolis.
 
 I'm focusing on frontend development, but I also like to work/learn about all Javascript ecosystem. Some of the technologies I have already worked are: **Javascript**, **React.js**, **React Native**, **Vue.js**, **Nuxt**, **Jest**, **Typescript**, **Node**... I also have worked with and like a lot about the **Rails** framework.
 
